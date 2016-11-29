@@ -1,4 +1,9 @@
 hello.
 Nice to meet you.
 add new
+<<<<<<< HEAD
 11111
+=======
+wodeshdj
+>>>>>>> fenzhi1
+2222222
